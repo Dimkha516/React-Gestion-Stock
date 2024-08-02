@@ -1,0 +1,23 @@
+.clients {
+    .content {
+        margin-left: 25%;
+        margin-top: -45%;
+
+        .title {
+            display: flex;
+            justify-content: space-around;
+            border: solid black 1.5px;
+            border-radius: 15px;
+        }
+
+        .search {
+            margin: 15px;
+
+            input[type="text"] {
+                font-size: 1.2rem;
+                border-radius: 10px;
+                text-align: center;
+            }
+        }
+    } 
+}

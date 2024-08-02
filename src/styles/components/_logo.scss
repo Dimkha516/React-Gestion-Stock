@@ -1,0 +1,19 @@
+.logo {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    background-color: white;
+
+
+    img {
+        width: 10%;
+        height: 12vh;
+        border-radius: 25px;
+    }
+
+    h3 {
+        margin-top: 18px;
+        margin-left: 20px;
+    }
+}

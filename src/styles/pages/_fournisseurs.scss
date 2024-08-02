@@ -1,0 +1,14 @@
+.fournisseurs {
+    .content {
+        background-color: rgb(33, 33, 71);
+        margin-left: 25%;
+        margin-top: -45%;
+
+        .title {
+            display: flex;
+            justify-content: space-around;
+            color: tomato;
+            font-size: 1.5rem;
+        }
+    }
+}

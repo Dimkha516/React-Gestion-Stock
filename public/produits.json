@@ -1,0 +1,186 @@
+{
+  "produits": [
+    {
+      "image": "ail.jpg",
+      "designation": "ail",
+      "prixUnitaire": 100,
+      "quantiteStocke": "100 kg",
+      "id": 1
+    },
+    {
+      "image": "araw.jpg",
+      "designation": "Sachet Araw",
+      "prixUnitaire": 450,
+      "quantiteStocke": "850 sachets",
+      "id": 2
+    },
+    {
+      "image": "boite cafe.jpg",
+      "designation": "Boite à café",
+      "prixUnitaire": 5000,
+      "quantiteStocke": "250",
+      "id": 3
+    },
+    {
+      "image": "cafe.jpg",
+      "designation": "Café Baghdad",
+      "prixUnitaire": 255,
+      "quantiteStocke": "1500 sachets",
+      "id": 4
+    },
+    {
+      "image": "conserve.jpg",
+      "designation": "Boite de conserve",
+      "prixUnitaire": 1500,
+      "quantiteStocke": "aleatoire",
+      "id": 5
+    },
+    {
+      "image": "eau.jpg",
+      "designation": "Eau minérale 1L",
+      "prixUnitaire": 1250,
+      "quantiteStocke": "230 bouteilles",
+      "id": 6
+    },
+    {
+      "image": "farine.jpg",
+      "designation": "Farine Coumba",
+      "prixUnitaire": 850,
+      "quantiteStocke": "500 kg",
+      "id": 7
+    },
+    {
+      "image": "fromage.jpg",
+      "designation": "Fromage gruyère",
+      "prixUnitaire": 2100,
+      "quantiteStocke": "800 sachets",
+      "id": 8
+    },
+    {
+      "image": "huile.jpg",
+      "designation": "Huile 1L",
+      "prixUnitaire": 2450,
+      "quantiteStocke": "1000 bouteilles",
+      "id": 9
+    },
+    {
+      "image": "lait caille.jpg",
+      "designation": "Lait caillé Ardo",
+      "prixUnitaire": 750,
+      "quantiteStocke": "100 pots",
+      "id": 10
+    },
+    {
+      "image": "lait.jpg",
+      "designation": "Lait en brique",
+      "prixUnitaire": 1300,
+      "quantiteStocke": "230 briques",
+      "id": 11
+    },
+    {
+      "image": "mais.jpg",
+      "designation": "Maïs en sachet",
+      "prixUnitaire": 1600,
+      "quantiteStocke": "800 sachets",
+      "id": 12
+    },
+    {
+      "image": "mayonnaise.jpg",
+      "designation": "Mayonnaise",
+      "prixUnitaire": 2000,
+      "quantiteStocke": "400 pots",
+      "id": 13
+    },
+    {
+      "image": "niebe.jpg",
+      "designation": "Niebe en sachet",
+      "prixUnitaire": 1800,
+      "quantiteStocke": "280 sachets",
+      "id": 14
+    },
+    {
+      "image": "oeuf.jpg",
+      "designation": "Oeuf Tablette",
+      "prixUnitaire": 1450,
+      "quantiteStocke": "560 tablettes",
+      "id": 15
+    },
+    {
+      "image": "oignon.jpg",
+      "designation": "Oignon en sac",
+      "prixUnitaire": 11500,
+      "quantiteStocke": "1000 sacs",
+      "id": 16
+    },
+    {
+      "image": "pate.jpg",
+      "designation": "Pâtes",
+      "prixUnitaire": 675,
+      "quantiteStocke": "2000 sachets",
+      "id": 17
+    },
+    {
+      "image": "piment.jpg",
+      "designation": "Piment",
+      "prixUnitaire": 700,
+      "quantiteStocke": "900 pots",
+      "id": 18
+    },
+    {
+      "image": "pomme de terre.jpg",
+      "designation": "Pomme de terre",
+      "prixUnitaire": 12000,
+      "quantiteStocke": "380 sac",
+      "id": 19
+    },
+    {
+      "image": "poulet.jpg",
+      "designation": "Poulet de chair",
+      "prixUnitaire": 4000,
+      "quantiteStocke": "aléatoire",
+      "id": 20
+    },
+    {
+      "image": "riz.jpg",
+      "designation": "Riz 50kg",
+      "prixUnitaire": 14000,
+      "quantiteStocke": "500 sacs",
+      "id": 21
+    },
+    {
+      "image": "sac tomate.jpg",
+      "designation": "Tomate",
+      "prixUnitaire": 12500,
+      "quantiteStocke": "250 sacs",
+      "id": 22
+    },
+    {
+      "image": "sucre.jpg",
+      "designation": "Sucre",
+      "prixUnitaire": 850,
+      "quantiteStocke": "250 Boites",
+      "id": 23
+    },
+    {
+      "image": "tomate2.jpg",
+      "designation": "Tomate en sachet",
+      "prixUnitaire": 125,
+      "quantiteStocke": "670 sachets",
+      "id": 24
+    },
+    {
+      "image": "tomate2.jpg",
+      "designation": "Tomate en sachet",
+      "prixUnitaire": 125,
+      "quantiteStocke": "670 sachets",
+      "id": 25
+    },
+    {
+      "image": "viande.jpg",
+      "designation": "Viande par kilo",
+      "prixUnitaire": 4000,
+      "quantiteStocke": "aléatoire",
+      "id": 26
+    }
+  ]
+}

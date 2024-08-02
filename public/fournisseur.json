@@ -1,0 +1,28 @@
+{
+  "fournisseurs": [
+    {
+      "nom": "Sen Aliment",
+      "adress": "Thies",
+      "telephone": 932160921,
+      "id": 1
+    },
+    {
+      "nom": "Free Business",
+      "adress": "Kaolack",
+      "telephone": 932050314,
+      "id": 2
+    },
+    {
+      "nom": "E-Commerce SN",
+      "adress": "Dakar",
+      "telephone": 931124469,
+      "id": 3
+    },
+    {
+      "nom": "Kane Aliment",
+      "telephone": 936533451,
+      "adress": "Rufisque",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.list-clients {
+    
+    .list {
+        display: flex;
+        justify-content: space-around;
+        margin: 15px;
+        font-size: 1.5rem;
+        background-color: white;
+        border-radius: 10px;
+        height: 10vh;
+        padding-top: 18px;
+        cursor: pointer;
+    }
+
+}

@@ -1,0 +1,35 @@
+.navigation {
+    margin: 20px;
+    background-color: rgb(65, 62, 92);
+    color: white;
+    margin-right: 80%;
+    height: 85vh;
+    padding: 20px;
+    border-top-right-radius: 85px;
+
+    li{
+        color: white;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+
+        img{
+            border-radius: 10px;
+        }
+    }
+
+    h2{
+        text-decoration: underline;
+    }
+
+    .active {
+        font-size: 1.5rem;
+        
+        li{
+            color: rgb(250, 127, 127);
+            border: solid white 2px;
+            border-radius: 10px;
+            padding: 8px;
+        }
+    }
+}

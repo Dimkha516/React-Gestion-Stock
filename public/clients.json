@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "prenom": "Ramatoulaye",
+      "nom": "Kane",
+      "adress": "pikine",
+      "telephone": 182298839,
+      "id": 1
+    },
+    {
+      "prenom": "Daouda",
+      "nom": "Sarr",
+      "adress": "Dakar",
+      "telephone": 103704172,
+      "id": 2
+    },
+    {
+      "prenom": "Lamine",
+      "nom": "Diop",
+      "adress": "Rufisque",
+      "telephone": 146226197,
+      "id": 3
+    },
+    {
+      "prenom": "Khadidiatou",
+      "nom": "Mar",
+      "adress": "Kaolack",
+      "telephone": 157273535,
+      "id": 4
+    }
+  ]
+}

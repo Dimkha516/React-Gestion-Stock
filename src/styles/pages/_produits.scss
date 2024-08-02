@@ -1,0 +1,13 @@
+.produits {
+    .content {
+        background-color: rgb(38, 38, 66);
+        margin-left: 25%;
+        margin-top: -45%;
+
+        .title {
+            color: rgb(247, 132, 112);
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+}

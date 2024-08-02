@@ -1,0 +1,235 @@
+.accueil {
+    // height: 400vh;
+    
+    .content {
+        margin-left: 22%;
+        margin-top: -45%;
+
+        .produit-commande {
+            display: flex;
+            justify-content: space-between;
+
+            .produit{
+                margin-left: -28%;
+            }
+            
+        }
+
+        #new-commande{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            background-color: red;
+            margin-left: 45%;
+            margin-bottom: 25px;
+            color: white;
+            padding: 10px;
+            border-radius: 15px;
+            cursor: pointer;
+        }
+
+        .title {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin: 10px;
+
+            h5{
+                border-radius: 10px;
+                padding: 5px;
+            }
+        }
+
+        .list-product{
+
+            // height: 5vh;
+            margin: -10px;
+            line-height: 5vh;
+        
+            ul {
+                margin: 5px;
+                padding: 5px;
+
+                li{
+                    display: flex;
+                    margin: 10px;
+                }
+
+                h5{
+                    margin-top: 10px;
+                    margin-left: 15px;
+                    width: 25%;
+
+                    &:hover{
+                        background-color: rgb(240, 62, 62);
+                        color: white;
+                        transform: scale(1.2);
+                        transition: 0.8s;
+                        border-radius: 5px;  
+                    }
+                }
+                img{
+                    border-radius: 10px;
+                }
+            }
+            
+            
+        }
+
+        
+
+        .product-select{
+            
+            li {
+                button {
+                    background-color: white;
+                    font-size: 1.2rem;
+                    width: 12%;
+                    border: black solid 4px;
+                    border-radius: 10px;
+                    color: brown;
+                    margin: 10px;
+                }
+
+                img {
+                    border-radius: 15px;
+                    &:hover{
+                        transform: scale(1.4);
+                        transition: 0.8s;
+                    }
+                }
+            }
+        }
+ 
+                
+
+        .histo{
+            margin-left: 0;
+            background-color: white;
+        }
+
+        .commande {
+            background-color: rgb(71, 67, 99);
+            color: white;
+        }
+
+        form {
+            margin-top: 15%;
+            padding: 5%;
+            height: 70vh;
+            position: relative;
+            border-radius: 5px;
+            background-color: darkslateblue;
+            display: flex;
+            justify-content: space-around;
+
+            .values {
+            color: white;
+            display: block;
+            border-radius: 12px;
+            padding: 5px;
+
+            input[type="text"] {
+                margin: 5px;
+                width: 57%;
+                height: 7vh;
+                font-size: 1.2rem;
+                text-align: center;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                border-radius: 10px;
+                color:red;
+            }
+
+            input[type="number"] {
+                margin: 5px;
+                width: 40%;
+                height: 7vh;
+                font-size: 1.2rem;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                text-align: center;
+                border-radius: 10px;
+                color: blue;
+            }
+            #evaluer {
+                margin-left: 55px;
+                cursor: pointer;
+                margin-top: 8px;
+                background-color: rgb(240, 62, 62);
+                width: 25%;
+                height: 5vh;
+                font-size: 1.1rem;
+                text-align: center;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                border: solid 4px white;
+                border-radius: 10px;
+                color:black;
+                &:hover{
+                    transform: scale(1.1);
+                    transition: 0.4s;
+                }
+            }            
+
+            label {
+                color: white;
+                padding-top: 15px;
+            }
+            }
+
+            .infos {
+                display: block;
+                padding: 5px;
+                margin: 15px;
+                color: white;
+
+                input[type="text"] {
+                    text-align: center;
+                    font-size: 1.2rem;
+                    border-radius: 10px;
+                }
+                input[type="number"] {
+                    text-align: center;
+                    font-size: 1.2rem;
+                    border-radius: 10px;
+                }
+
+                #numcom {
+                    cursor: pointer;
+                    border: solid white 2px;
+                    border-radius: 10px;
+                    text-align: center;
+                    background-color: tomato;
+                    margin-right: 75%;
+                    user-select: none;
+                    &:hover{
+                        transform: scale(1.1);
+                        transition: 0.5s;
+                    }
+                }
+            }
+            
+        }
+
+        input[type="submit"] {
+            position: absolute;
+            bottom: 5px;
+            height: 6vh;
+            width: 25%;
+            background-color: blue;
+            color: white;
+            font-size: 1.2rem;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            border: solid white 2px;
+            border-radius: 10px;
+            cursor: pointer;
+            
+            &:hover{
+                transform: scale(1.2);
+                transition: 0.5s;
+                color: tomato;
+            }
+        }
+
+
+    }   h1 {
+        margin: 25px;
+        text-align: center;
+    }
+}

@@ -1,0 +1,14 @@
+.list-produits {
+    display: flex;
+    justify-content: space-around;
+    margin: 25px;
+    padding-top: 15px;
+    background-color: white;
+
+    img:hover{
+        transform: scale(1.5);
+        transition: 0.8s;
+        border: black solid 2px;
+        border-radius: 15px;
+    }
+}

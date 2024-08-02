@@ -1,0 +1,25 @@
+.historique {
+    .content {
+        margin-left: 20%;
+        margin-top: -45%;
+
+        .entete{
+            background-color: blueviolet;
+            color: white;
+            display: flex;
+            padding: 10px;
+            border-radius: 10px;
+            justify-content: space-between;
+        }
+
+        .global{
+            background-color: brown;
+            color: cornsilk;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 5px;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}
